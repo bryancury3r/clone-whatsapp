@@ -1,3 +1,19 @@
+# Clone WhatsApp
+
+
+# Sobre o projeto
+
+É um projeto realizado através de um tutorial do YouTube, uma forma de entender melhor a criação de um sistema de mensageria !
+
+
+
+
+## Layout web
+![Web 1](https://github.com/bryancury3r/clone-whatsapp/blob/master/clone-whatsapp.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
